@@ -9,3 +9,6 @@ Essa será uma aplicação onde o seu principal objetivo é uma pequena aplic
 - Marcar e desmarcar uma tarefa como concluída
 
 Foi utilizado um template disponibilizado pela equipe da Rocketseat.
+
+Modelo:
+<img src="./public/example.png" />
